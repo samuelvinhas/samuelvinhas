@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Samuel! 👋</h1>
+
+<p align="center">
+  <img src="snoopy.gif" width="150"/>
+</p>
+
+## 🧑‍🎓 About Me  
+🎓 I'm in my 2nd year of **Software Engineering** at **University of Aveiro**  
+📅 Started in 2023
+
+## 📫 How to Reach Me?  
+📩 **Email:** [samuelmvinhas@gmail.com](mailto:samuelmvinhas@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/samuelvinhas](https://linkedin.com/in/samuelvinhas)  
 
 <!--
 **samuelvinhas/samuelvinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
